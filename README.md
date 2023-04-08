@@ -1,8 +1,8 @@
 # SQL PROJECT 1 : COVID 19 DATASET
-This is a guided project that I completed following 'Alex The Analyst' on youtube. Click [https://www.youtube.com/watch?v=qfyynHBFOsM](url) to watch the youtube video.
+This is a guided project that I completed following 'Alex The Analyst' on youtube. Click [https://www.youtube.com/watch?v=qfyynHBFOsM](url) to watch the youtube video.  
 Tools used : MySQL, MySQL WorkBench, Github, Excel
 
-### Importing .csv file to MySQL
+### Importing .csv file to MySQL  
 To enable load data load in mysql server and client
 ##### MySQL Cmd
 ```
@@ -24,7 +24,7 @@ Step 2.Access SQL server
   mysql --local_infile=1 -u root -p
 ```
 
-Step 3.Load data command
+Step 3.Load data command  
 The table must be already created with the fields defined before loading the data.
 ```
   mysql> show databases;
