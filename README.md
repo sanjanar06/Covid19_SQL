@@ -1,4 +1,4 @@
-# SQL PROJECT 1 : COVID 19 DATASET
+# SQL PROJECT : COVID 19 DATASET
 This is a guided project that I completed following 'Alex The Analyst' on youtube. Click [https://www.youtube.com/watch?v=qfyynHBFOsM](url) to watch the youtube video.  
 Tools used : MySQL, MySQL WorkBench, Github, Excel
 
